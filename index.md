@@ -1,6 +1,6 @@
 ## Кыргызстандагы IT мектептер
 
-### Академия программирования - IT Run
+### 1. Академия программирования - IT Run
 
 - **Инстаграм аккаунт** - https://www.instagram.com/itrun_kg/
 - **Вебсайт** - http://itrun.kg/
@@ -18,7 +18,7 @@
 - 🔎 QA 
 
 
-### Онлайн академия IT-RUN - IT Run Online
+### 2. Онлайн академия IT-RUN - IT Run Online
 
 - **Инстаграм аккаунт** - hhttps://www.instagram.com/itrun_online/
 - **Вебсайт** - http://itrun.online/
@@ -32,7 +32,7 @@
 
 
 
-### КУРСЫ ПРОГРАММИРОВАНИЯ БИШКЕК - IT Academy KG
+### 3. КУРСЫ ПРОГРАММИРОВАНИЯ БИШКЕК - IT Academy KG
 
 - **Инстаграм аккаунт** - https://www.instagram.com/itacademy.kg/
 - **Вебсайт** - https://rebrand.ly/cwaqas3
@@ -45,7 +45,7 @@
 - Так жазылган эмес.
 
 
-### Академия “IT Технопарк” - IT Run
+### 4. Академия “IT Технопарк” - IT Run
 
 - **Инстаграм аккаунт** - https://www.instagram.com/itpark_osh/
 - **Вебсайт** - http://wa.me/996500891111
@@ -59,7 +59,7 @@
 - 📱Python, Android, Java,  
 
 
-### Attractor School - Attractor School Bishkek
+### 5. Attractor School - Attractor School Bishkek
 
 - **Инстаграм аккаунт** - https://www.instagram.com/attractor.school.bishkek/
 - **Вебсайт** - http://attractor-school.com/bishkek
@@ -77,7 +77,7 @@
 - Bеб-разработчик Javascript
 
 
-### Makers Coding Bootcamp Bishkek - 
+### 6. Makers Coding Bootcamp Bishkek - 
 
 - **Инстаграм аккаунт** - https://www.instagram.com/makerskg/
 - **Вебсайт** - https://makers.kg/
@@ -92,7 +92,7 @@
 - JavaScript
 
 
-### IT курсы CodifyLab 
+### 7. IT курсы CodifyLab 
 
 - **Инстаграм аккаунт** - https://www.instagram.com/codifylab.kg/
 - **Вебсайт** - https://linktr.ee/codifylab.com
@@ -112,7 +112,7 @@
 - QA&Тестирование
 
 
-### Курсы в Бишкеке - Oneclick Pro
+### 8. Курсы в Бишкеке - Oneclick Pro
 
 - **Инстаграм аккаунт** - https://www.instagram.com/oneclick.pro/
 - **Вебсайт** - http://itrun.kg/
@@ -130,7 +130,7 @@
 - 🔎 QA 
 
 
-### ГИКТЕК |КУРСЫ ПРОГРАММИРОВАНИЯ - geektech__kg
+### 9. ГИКТЕК |КУРСЫ ПРОГРАММИРОВАНИЯ - geektech__kg
 
 - **Инстаграм аккаунт** - https://www.instagram.com/geektech__kg/
 - **Вебсайт** - https://taplink.cc/geektech1
@@ -147,7 +147,7 @@
 
 
 
-### КЛУБ ПРОГРАММИРОВАНИЯ - NEOBIS
+### 10. КЛУБ ПРОГРАММИРОВАНИЯ - NEOBIS
 
 - **Инстаграм аккаунт** - https://www.instagram.com/neobis.kg/
 - **Вебсайт** - https://taplink.cc/neobis.kg
