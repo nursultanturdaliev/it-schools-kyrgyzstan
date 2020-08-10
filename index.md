@@ -75,3 +75,23 @@
 - Bеб-разработчик - Php / Laravel
 - Java разработчик
 - Bеб-разработчик Javascript
+
+
+### Makers Coding Bootcamp Bishkek - 
+
+- **Инстаграм аккаунт** - https://www.instagram.com/codifylab.kg/
+- **Вебсайт** - https://linktr.ee/codifylab.com
+- **Адрес** - Bishkek, Kyrgyzstan, Исанова 105/3
+- **Почта** iinfo.codifylab@gmail.com
+- **Телефон** +996 704 75 00 75
+
+##### Эмнени үйрөтөт?
+
+- Python
+- JavaScript
+- Data science
+- UX/UI дизайн
+- Графический дизайн
+- Project/product management
+- IT для подростков
+- QA&Тестирование
