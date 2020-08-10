@@ -57,3 +57,21 @@
 
 - 🌐Front-End, BackEnd
 - 📱Python, Android, Java,  
+
+
+#### Attractor School - Attractor School Bishkek
+
+- **Инстаграм аккаунт** - https://www.instagram.com/attractor.school.bishkek/
+- **Вебсайт** - http://attractor-school.com/bishkek
+- **Адрес** - Bishkek, Kyrgyzstan, ул.Малдыбаева 7/1 (4 этаж), 720055
+- **Почта** plus@it-attractor.com
+- **Телефон** +996 555 86 77 66
+- Учим программировать с нуля и трудоустраиваем
+
+##### Эмнени үйрөтөт?
+
+- Веб-разработчик - Python / Django
+- Bеб-разработчик - C# / ASP.Net
+- Bеб-разработчик - Php / Laravel
+- Java разработчик
+- Bеб-разработчик Javascript
