@@ -31,32 +31,15 @@
 - Белгисиз, сайтта так маалымат жок!
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#### КУРСЫ ПРОГРАММИРОВАНИЯ БИШКЕК - IT Academy KG
 
-# Header 1
-## Header 2
-### Header 3
+- **Инстаграм аккаунт** - https://www.instagram.com/itacademy.kg/
+- **Вебсайт** - https://rebrand.ly/cwaqas3
+- **Адрес** - Bishkek, Kyrgyzstan, Ибраимова 115/1
+- **Почта** itacademykg@gmail.com
+- **Телефон** +996 707 74 52 32
 
-- Bulleted
-- List
+##### Эмнени үйрөтөт?
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nursultanturdaliev/it-schools-kyrgyzstan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Так жазылган эмес.
