@@ -45,7 +45,7 @@
 - Так жазылган эмес.
 
 
-### 4. Академия “IT Технопарк” - IT Run
+### 4. Академия “IT Технопарк” - itpark_osh
 
 - **Инстаграм аккаунт** - https://www.instagram.com/itpark_osh/
 - **Вебсайт** - http://wa.me/996500891111
@@ -77,7 +77,7 @@
 - Bеб-разработчик Javascript
 
 
-### 6. Makers Coding Bootcamp Bishkek - 
+### 6. Makers Coding Bootcamp Bishkek
 
 - **Инстаграм аккаунт** - https://www.instagram.com/makerskg/
 - **Вебсайт** - https://makers.kg/
