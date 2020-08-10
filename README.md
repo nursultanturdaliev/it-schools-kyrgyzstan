@@ -45,7 +45,7 @@
 - Так жазылган эмес.
 
 
-### 4. Академия “IT Технопарк” - IT Run
+### 4. Академия “IT Технопарк” - itpark_osh
 
 - **Инстаграм аккаунт** - https://www.instagram.com/itpark_osh/
 - **Вебсайт** - http://wa.me/996500891111
@@ -77,7 +77,7 @@
 - Bеб-разработчик Javascript
 
 
-### 6. Makers Coding Bootcamp Bishkek - 
+### 6. Makers Coding Bootcamp Bishkek
 
 - **Инстаграм аккаунт** - https://www.instagram.com/makerskg/
 - **Вебсайт** - https://makers.kg/
@@ -160,3 +160,33 @@
 - backend
 - web
 - UX/UI 
+
+
+
+### 11. Курсы программирования DEVCIT AUCA
+
+- **Инстаграм аккаунт** - https://www.instagram.com/devcit.auca/
+- **Вебсайт** - http://devcit.auca.kg
+- **Адрес** - г. Бишкек, ул. Токомбаева 7/6 (АУЦА — ориентир 12 мкр)
+- **Почта** - devcit@auca.kg
+- **Телефон** +996 770 54 54 36, +996 770 54 54 30
+
+##### Эмнени үйрөтөт?
+
+- Введение в 3D моделирование
+- Введение в Python и Data Science
+- Введение в дизайн интерьера: интенсив
+- Графический дизайн: интенсив
+- Введение в разработку на языке Python/Django
+- Разработка на JavaScript
+- Программирование для Новичков
+- Тестирование ПО
+- Программирование на C# и ASP.NET
+- Базы данных и SQL
+- Подготовка к сертификации Cisco CCNA
+- Построение профайла личности
+- Development &amp; Operations (DevOps)
+- Подготовка к сертификации Cisco CCNA
+- Программирование для тинейджеров
+- Программирование для детей
+- Development &amp; Operations (DevOps)
