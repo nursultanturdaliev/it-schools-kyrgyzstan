@@ -144,3 +144,21 @@
 - 🌀Курс Java/Kotlin/Android/iOS
 - 🌀Курс IT-английский
 - 🌀Курс фриланса
+
+
+
+### КЛУБ ПРОГРАММИРОВАНИЯ - NEOBIS
+
+- **Инстаграм аккаунт** - https://www.instagram.com/neobis.kg/
+- **Вебсайт** - https://taplink.cc/neobis.kg
+- **Адрес** - Bishkek, Kyrgyzstan, Baitik Baatyr Street 70, 720005
+- **Почта** neobislab@gmail.com
+- **Телефон** +996 550 22 53 10
+
+##### Эмнени үйрөтөт?
+
+- iOS 
+- Android
+- backend
+- web
+- UX/UI 
