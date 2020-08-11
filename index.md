@@ -190,3 +190,20 @@
 - Программирование для тинейджеров
 - Программирование для детей
 - Development &amp; Operations (DevOps)
+
+
+### 12. «Академия OGOGO» Бишкек
+
+- **Инстаграм аккаунт**  https://www.instagram.com/ogogo_academy/
+- **Вебсайт**  https://api.whatsapp.com/send?phone=996550312312
+- **Адрес**  
+- **Почта** itrun.kg@gmail.com
+- **Телефон** +996 550 312 312
+
+##### Эмнени үйрөтөт?
+
+- JAVA
+- Python
+- JS
+- UX/UI
+- Основы программирования
